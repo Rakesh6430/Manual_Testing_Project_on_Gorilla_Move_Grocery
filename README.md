@@ -25,7 +25,7 @@ Categories, Search, Header Section, Footer Section, User Management, Cart
 - You can find the test cases [here](https://docs.google.com/spreadsheets/d/1XdZ6A6kQ1RetJ5HoqL63Ja5C03ZZ6L33HBT6hjSa0XQ/edit?usp=sharing)
 - You can find the Test Case Report [here](https://docs.google.com/spreadsheets/d/1XdZ6A6kQ1RetJ5HoqL63Ja5C03ZZ6L33HBT6hjSa0XQ/edit?usp=sharing)
 - You can find the Test Metrics [here](https://docs.google.com/spreadsheets/d/1XdZ6A6kQ1RetJ5HoqL63Ja5C03ZZ6L33HBT6hjSa0XQ/edit?usp=sharing)
-- You can find the Mind Map [here](https://github.com/Rakesh6430/Manual_Testing_Project_on_Gorilla_Move_Grocery/blob/main/Gorillamove_Grocery%20Delivery.png))
+- You can find the Mind Map [here](https://github.com/Rakesh6430/Manual_Testing_Project_on_Gorilla_Move_Grocery/blob/main/Gorillamove_Grocery%20Delivery.png)
 - You can find the Bug Report [here](https://docs.google.com/spreadsheets/d/1XdZ6A6kQ1RetJ5HoqL63Ja5C03ZZ6L33HBT6hjSa0XQ/edit?usp=sharing)
 
 ### Bug Reporting Sample :
