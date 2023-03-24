@@ -6,7 +6,7 @@ I mainly wrote the test cases based on website. Besides that, I also crosschecke
 - You can find the website [here](https://www.gorillamove.com/)
 
 ### Test Deliverables :
-Here are mentioned all the Test Artifacts that was done during different phases of the testing lifecycle.
+Here are mentioned all the Test Artifacts that was delivered during different phases of the testing lifecycle.
 Here are the sample deliverables:
 
 - Test Cases
