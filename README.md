@@ -24,5 +24,5 @@ Here are the sample deliverables:
 
 ### Bug Reporting Sample :
 
-<img src= "https://github.com/Rakesh6430/Manual_Testing_Project_on_Gorilla_Move_Grocery/blob/main/Bug%20Report%20Sample.jpg height = "300" width="500" >
+<img src= "https://github.com/Rakesh6430/Manual_Testing_Project_on_Gorilla_Move_Grocery/blob/main/Bug%20Report%20Sample.jpg" height = "300" width="500" >
 
