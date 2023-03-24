@@ -1,4 +1,4 @@
-# Manual Testing Project on Gorilla Move Grocery
+# Manual Testing Project on Gorilla Move Grocery Website
 
 
 ### Test Deliverables :
