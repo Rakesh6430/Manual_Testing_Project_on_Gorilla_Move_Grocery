@@ -12,7 +12,7 @@ Here are the sample deliverables:
 - Mind Map
 
 ### Test Environment: 
-- Google Chrome, Xiaomi Note 7 Pro
+- Browser: Google Chrome, Mobile Device: Xiaomi Note 7 Pro
 
 ### Project Links
 - You can find the test cases [here](https://docs.google.com/spreadsheets/d/1XdZ6A6kQ1RetJ5HoqL63Ja5C03ZZ6L33HBT6hjSa0XQ/edit?usp=sharing)
