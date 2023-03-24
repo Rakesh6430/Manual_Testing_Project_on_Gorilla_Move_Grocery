@@ -38,4 +38,4 @@ Categories, Search, Header Section, Footer Section, User Management, Cart
 
 ### Mind Map :
 
-<img src= "https://github.com/Rakesh6430/Manual_Testing_Project_on_Gorilla_Move_Grocery/blob/main/Gorillamove_Grocery%20Delivery.png" height = "600" width="400" >
+<img src= "https://github.com/Rakesh6430/Manual_Testing_Project_on_Gorilla_Move_Grocery/blob/main/Gorillamove_Grocery%20Delivery.png" height = "600" width="500" >
