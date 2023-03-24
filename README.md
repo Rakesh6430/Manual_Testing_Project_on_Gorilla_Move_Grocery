@@ -1,5 +1,7 @@
 # Manual Testing Project on Gorilla Move Grocery Website
 
+### Website Link:
+- You can find the website [here](https://www.gorillamove.com/)
 
 ### Test Deliverables :
 Here mention all the Test Artifacts that was delivered during different phases of the testing lifecycle.
