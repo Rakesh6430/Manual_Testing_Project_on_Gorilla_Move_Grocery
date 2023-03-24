@@ -28,4 +28,4 @@ Here are the sample deliverables:
 
 ### Test Case Report (Pie Chart):
 
-<img src= "https://github.com/Rakesh6430/Manual_Testing_Project_on_Gorilla_Move_Grocery/blob/main/Test%20Case%20Report%20Pie%20Chart.jpg" height = "400" width="300" >
+<img src= "https://github.com/Rakesh6430/Manual_Testing_Project_on_Gorilla_Move_Grocery/blob/main/Test%20Case%20Report%20Pie%20Chart.jpg" height = "300" width="400" >
