@@ -21,3 +21,8 @@ Here are the sample deliverables:
 - You can find the Test Metrics [here](https://docs.google.com/spreadsheets/d/1XdZ6A6kQ1RetJ5HoqL63Ja5C03ZZ6L33HBT6hjSa0XQ/edit?usp=sharing)
 - You can find the Mind Map [here](https://docs.google.com/spreadsheets/d/1XdZ6A6kQ1RetJ5HoqL63Ja5C03ZZ6L33HBT6hjSa0XQ/edit?usp=sharing)
 - You can find the Bug Report [here](https://docs.google.com/spreadsheets/d/1XdZ6A6kQ1RetJ5HoqL63Ja5C03ZZ6L33HBT6hjSa0XQ/edit?usp=sharing)
+
+### Bug Reporting Sample :
+
+<img src= "https://drive.google.com/file/d/1UIQfjbvPuN02t4M4swauCMW88kXs9pRJ/view?usp=sharing" height = "300" width="500" >
+
