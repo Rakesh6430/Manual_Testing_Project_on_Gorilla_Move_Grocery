@@ -17,6 +17,8 @@ Here are the sample deliverables:
 ### Test Environment : 
 - Browser: Google Chrome 
 - Mobile Device: Xiaomi Note 7 Pro
+- Mobile App Version: V 0.37
+- Test Network: Wifi
 
 ### Module Names: 
 Categories, Search, Header Section, Footer Section, User Management, Cart
