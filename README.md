@@ -2,8 +2,8 @@
 
 
 ## Test Deliverables
-Here mention all the Test Artifacts that will be delivered during different phases of the testing lifecycle.
-Here are the sample deliverables
+Here mention all the Test Artifacts that was delivered during different phases of the testing lifecycle.
+Here are the sample deliverables:
 - Test Plan
 - Test Cases
 - Bug Reports
@@ -11,4 +11,5 @@ Here are the sample deliverables
 - Test Metrics
 - Mind Map
 
-- Test Environment: Google Chrome, Xiaomi Note 7 Pro
+## Test Environment: 
+- Google Chrome, Xiaomi Note 7 Pro
