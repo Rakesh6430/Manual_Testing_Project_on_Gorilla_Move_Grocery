@@ -35,3 +35,7 @@ Categories, Search, Header Section, Footer Section, User Management, Cart
 ### Test Case Report (Pie Chart):
 
 <img src= "https://github.com/Rakesh6430/Manual_Testing_Project_on_Gorilla_Move_Grocery/blob/main/Test%20Case%20Report%20Pie%20Chart.jpg" height = "300" width="400" >
+
+### Mind Map :
+
+<img src= "https://github.com/Rakesh6430/Manual_Testing_Project_on_Gorilla_Move_Grocery/blob/main/Gorillamove_Grocery%20Delivery.png" height = "300" width="400" >
