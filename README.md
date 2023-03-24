@@ -15,7 +15,8 @@ Here are the sample deliverables:
 - Mind Map
 
 ### Test Environment : 
-- Browser: Google Chrome 
+- Browser: Google Chrome
+- OS Platform: Windows 10 
 - Mobile Device: Xiaomi Note 7 Pro
 - Mobile App Version: V 0.37
 - Test Network: Wifi
