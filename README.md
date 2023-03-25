@@ -10,6 +10,7 @@ Here are mentioned all the Test Artifacts that was delivered during different ph
 Here are the sample deliverables:
 
 - Test Cases
+- Test Case Report
 - Bug Reports
 - Test Metrics
 - Mind Map
