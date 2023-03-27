@@ -17,6 +17,7 @@ Here are the sample deliverables:
 
 ### Test Environment : 
 - Browser: Google Chrome
+- Browser Version: 111.0.5563.111
 - OS Platform: Windows 10 
 - Mobile Device: Xiaomi Note 7 Pro
 - Mobile App Version: V 0.37
