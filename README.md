@@ -29,7 +29,7 @@ Categories, Search, Header Section, Footer Section, User Management, Cart
 
 ### Project Links :
 - You can find the test plan [here](https://docs.google.com/document/d/16OW4j6nEZ4obu_Z8QJ6XNcOxhDnvGA-NmW73p-d0YfY/edit?usp=sharing)
-- You can find the test cases [here](https://docs.google.com/spreadsheets/d/1XdZ6A6kQ1RetJ5HoqL63Ja5C03ZZ6L33HBT6hjSa0XQ/edit?usp=sharing)
+- You can find the test case documentation [here](https://docs.google.com/spreadsheets/d/1XdZ6A6kQ1RetJ5HoqL63Ja5C03ZZ6L33HBT6hjSa0XQ/edit?usp=sharing)
 - You can find the Test Case Report [here](https://docs.google.com/spreadsheets/d/1XdZ6A6kQ1RetJ5HoqL63Ja5C03ZZ6L33HBT6hjSa0XQ/edit?usp=sharing)
 - You can find the Test Metrics [here](https://docs.google.com/spreadsheets/d/1XdZ6A6kQ1RetJ5HoqL63Ja5C03ZZ6L33HBT6hjSa0XQ/edit?usp=sharing)
 - You can find the Mind Map [here](https://github.com/Rakesh6430/Manual_Testing_Project_on_Gorilla_Move_Grocery/blob/main/Gorillamove_Grocery%20Delivery.png)
