@@ -9,6 +9,7 @@ I mainly wrote the test cases based on website. Besides that, I also crosschecke
 Here are mentioned all the Test Artifacts that was delivered during different phases of the testing lifecycle.
 Here are the sample deliverables:
 
+- Test Plan
 - Test Cases
 - Test Case Report
 - Bug Reports
@@ -27,6 +28,7 @@ Here are the sample deliverables:
 Categories, Search, Header Section, Footer Section, User Management, Cart
 
 ### Project Links :
+- You can find the test plan [here](https://docs.google.com/document/d/16OW4j6nEZ4obu_Z8QJ6XNcOxhDnvGA-NmW73p-d0YfY/edit?usp=sharing)
 - You can find the test cases [here](https://docs.google.com/spreadsheets/d/1XdZ6A6kQ1RetJ5HoqL63Ja5C03ZZ6L33HBT6hjSa0XQ/edit?usp=sharing)
 - You can find the Test Case Report [here](https://docs.google.com/spreadsheets/d/1XdZ6A6kQ1RetJ5HoqL63Ja5C03ZZ6L33HBT6hjSa0XQ/edit?usp=sharing)
 - You can find the Test Metrics [here](https://docs.google.com/spreadsheets/d/1XdZ6A6kQ1RetJ5HoqL63Ja5C03ZZ6L33HBT6hjSa0XQ/edit?usp=sharing)
