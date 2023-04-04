@@ -1,4 +1,4 @@
-# Manual Testing Project on Gorilla Move Grocery Website
+# Manual Testing Project on Gorillamove: Grocery Delivery Website
 
 I mainly wrote the test cases based on website. Besides that, I also crosschecked the test cases with the mobile app as well.
 
